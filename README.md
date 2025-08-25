@@ -8,21 +8,26 @@ The dataset contains customer information such as age, gender, income, marital s
 Understand which demographic groups are most likely to purchase a bike.
 Identify key factors (income, region, age, etc.) influencing purchasing decisions.
 Create a visual dashboard for clear communication of insights.
+
 🧰 Tools & Technologies
 Tool	Purpose
 Microsoft Excel	Data cleaning, pivot table analysis, dashboard creation
 Pivot Tables	Aggregating income and purchase behavior by gender, region, etc.
 Dashboards	Visualizing key KPIs and comparisons
+
 🗂️ Project Structure
 Sheet Name	Description
 bike_buyers	Original dataset with raw entries
 Working Sheet	Cleaned and transformed data (gender mapped, age bracketed)
 Pivot Table	Summary analysis of income vs purchase status by gender
 Dashboard	Intended for KPI visualizations (e.g., average income, purchase rates)
+
+
 🔑 Key Insights
 Higher income groups are more likely to purchase bikes.
 Professionals and middle-aged customers show higher purchasing rates.
 Female buyers tend to purchase at slightly higher average incomes than males.
+
 🚀 How to Use
 Download the Excel file.
 Explore the Pivot Table sheet to analyze key breakdowns.
